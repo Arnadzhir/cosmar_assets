@@ -1,0 +1,11 @@
+# .htaccess
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /cosmar_assets/
+
+# Allow access to all files
+Order Allow,Deny
+Allow from all
+
+# Custom error page
+ErrorDocument 404 /cosmar_assets/auth/404.php

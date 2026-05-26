@@ -1,0 +1,30 @@
+[22-May-2026 14:07:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'where clause' in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php:118
+Stack trace:
+#0 C:\xampp\htdocs\cosmar_assets\menu\sidebar.php(118): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\cosmar_assets\index.php(16): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php on line 118
+[22-May-2026 14:07:06 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'where clause' in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php:118
+Stack trace:
+#0 C:\xampp\htdocs\cosmar_assets\menu\sidebar.php(118): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\cosmar_assets\index.php(16): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php on line 118
+[22-May-2026 14:07:07 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'where clause' in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php:118
+Stack trace:
+#0 C:\xampp\htdocs\cosmar_assets\menu\sidebar.php(118): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\cosmar_assets\index.php(16): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php on line 118
+[22-May-2026 14:07:07 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'where clause' in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php:118
+Stack trace:
+#0 C:\xampp\htdocs\cosmar_assets\menu\sidebar.php(118): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\cosmar_assets\index.php(16): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php on line 118
+[22-May-2026 14:07:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'where clause' in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php:118
+Stack trace:
+#0 C:\xampp\htdocs\cosmar_assets\menu\sidebar.php(118): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\cosmar_assets\index.php(16): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\cosmar_assets\menu\sidebar.php on line 118
